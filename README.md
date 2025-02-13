@@ -30,9 +30,6 @@ Este projeto oferece uma experiência de calculadora funcional, interativa e vis
 - **HTML** (estrutura da página e elementos de interface)
 - **CSS** (estilização da interface)
 
-### Como Rodar:
+### Exemplo
 
-1. Baixe ou clone este repositório.
-2. Abra o arquivo `index.html` em seu navegador.
-
-A calculadora estará pronta para uso!
+![Interface](./assets/favicon/interface_exemple.png)
